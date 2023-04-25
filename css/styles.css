@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+body{
+    
+    background-color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.top-container{
+    background-color:#FFF5E4 ;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 0;
+}
+.mid-container{
+    background-color: #FFE3E1;
+}
+.bottom-container{
+    background-color:#FFD1D1 ;
+}
+.footer{
+    background-color: #FF9494;
+}
+/*---------------- #FFF5E4
+#FFE3E1
+#FFD1D1
+#FF9494*/
